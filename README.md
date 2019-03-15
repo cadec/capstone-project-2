@@ -2,4 +2,4 @@
 
 ## All code written in /api folder is mine
 
-Can read project review comments in the "issues" section above
+Written using **Express** and **SQL**. Can read project review comments in the "issues" section above.
